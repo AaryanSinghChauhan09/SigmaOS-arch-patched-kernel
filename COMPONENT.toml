@@ -3,7 +3,7 @@ name = "SigmaOS-arch-patched-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-patched-kernel component"
+description = "SigmaOS SigmaOS-arch-patched-kernel component"
 upstream = []
 
 [contract]
